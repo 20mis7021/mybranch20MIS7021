@@ -1,1 +1,6 @@
-// This is 2nd file
+class main{
+  public static void main(String args[]){
+    System.out.println("Hello world");
+  }
+}
+
